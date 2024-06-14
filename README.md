@@ -253,17 +253,3 @@ phases:
 
 6. **Trigger the DAG:**
    - Trigger the `openweather_api_dag` from the Airflow UI to start the data pipeline.
-
-## Contributing
-
-Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Please replace placeholders like `yourusername` and `
-
-path/to/Project 5 Weather Data Analysis.png` with the actual values before using this README file.
