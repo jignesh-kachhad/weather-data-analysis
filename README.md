@@ -11,8 +11,6 @@
     - [2. AWS Glue Script](#2-aws-glue-script)
     - [3. Buildspec File](#3-buildspec-file)
 4. [Setup Instructions](#setup-instructions)
-5. [Contributing](#contributing)
-6. [License](#license)
 
 ---
 
@@ -22,7 +20,7 @@ This project extracts weather data from the OpenWeather API, processes it using 
 
 The architecture of this project is shown in the diagram below:
 
-![Weather Data Analysis Architecture](path/to/Project 5 Weather Data Analysis.png)
+![Weather Data Analysis Architecture](https://github.com/jignesh-kachhad/weather-data-analysis/blob/main/Architecture%20.png)
 
 ## Components
 
