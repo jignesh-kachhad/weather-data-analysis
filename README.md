@@ -1,4 +1,4 @@
-# Weather Data Analysis Project
+# Weather Data Analysis (OpenWeather API)
 
 ## Index
 
